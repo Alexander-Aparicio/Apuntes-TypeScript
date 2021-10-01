@@ -101,6 +101,6 @@
     "Javascript"
   ],
   "include": [
-    "classes"
+    "interfaces"
   ]
 }
