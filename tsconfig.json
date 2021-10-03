@@ -101,6 +101,6 @@
     "Javascript"
   ],
   "include": [
-    "interfaces"
+    "Namespace"
   ]
 }
